@@ -1,0 +1,9 @@
+vendor-cache/
+vendor/
+build/
+dist/
+*.spec
+ui-preview.png
+smoke-report.json
+smoke-audio.json
+__pycache__/

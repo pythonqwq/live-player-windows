@@ -1,0 +1,7 @@
+本程序使用以下开源组件。播放器可执行文件动态加载随包携带的 VLC 与 Qt 库；完整许可文本及源代码请见对应项目。
+
+VideoLAN VLC 3.0.24 / libVLC：GPL-2.0-or-later、LGPL-2.1-or-later 及其依赖许可；https://www.videolan.org/vlc/ 、https://code.videolan.org/videolan/vlc 。VLC 原版 COPYING.txt 与 AUTHORS.txt 已随 EXE 内嵌。
+python-vlc 3.0.21203：LGPL-2.1-or-later；https://github.com/oaubert/python-vlc 。
+PySide6 / Qt 6.9.0：LGPL-3.0-or-later / GPL-3.0-or-later 等可选许可；https://www.qt.io/licensing/open-source-lgpl-obligations 、https://www.qt.io/download-open-source 。
+PyInstaller 6.17.0：GPL-2.0-or-later，附 bootloader 特许条款；https://pyinstaller.org/en/stable/license.html 。
+播放器标识为本项目生成的独立视觉素材。
