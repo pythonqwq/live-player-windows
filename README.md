@@ -1,6 +1,6 @@
 # 直播播放器
 
-这是独立的 Windows 10（1809 或更新版本）/11 x64 单文件播放器版本。界面、窗口图标和背景均为通用播放器设计，不使用其他系统的名称、标识或背景图片。打包好的 EXE 放在本仓库的 Releases 附件中；下载后直接运行，不需要安装 Python 或 VLC。
+这是独立的 Windows 10（1809 或更新版本）/11 x64 单文件播放器版本。界面、窗口图标和背景均为通用播放器设计，不使用其他系统的名称、标识或背景图片。打包好的 EXE 放在[最新版本的附件](https://github.com/pythonqwq/live-player-windows/releases/latest)中；下载后直接运行，不需要安装 Python 或 VLC。
 
 ![播放器界面](assets/preview.png)
 
